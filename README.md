@@ -4,6 +4,7 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/ej-ok/Cloud-SOC)
+  - https://www.whizlabs.com/labs/creating-azure-resource-locks
 
 
 
