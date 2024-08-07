@@ -1,4 +1,5 @@
-<h1>Hi, I'm EJ! Passionate Cyber Security Analyst with a demonstrated history of working in the Information Technology and Services Industry.<br/><a href
+<h1>Hi, I'm EJ!
+   Passionate Cyber Security Professional, Educator with a demonstrated history of working in the Information Technology and Services Industry.<br/><a href
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
